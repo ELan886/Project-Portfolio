@@ -1,4 +1,4 @@
-#California Housing Prices Analysis
+# California Housing Prices Analysis
 
 Introduction
 
