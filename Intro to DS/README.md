@@ -49,7 +49,3 @@ From a violent crime standpoint, California is a more dangerous state than Washi
 ## Additional Graphs
 Graphs comparing the rates of assault, rape, murder, and robbery over the years provide a visual representation of the trends and differences between the two states.
 
-## Future Work
-To extend this study, additional datasets including non-violent crimes should be analyzed to compare overall safety on a larger scale.
-
-
