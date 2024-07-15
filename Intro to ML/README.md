@@ -25,8 +25,6 @@ In contrast to previous assignments where we primarily utilized Scikit-learn for
 
 ### Kaggle Competition
 
-[Kaggle Competition Link](https://www.kaggle.com/competitions/cse-stat-416-24-sp-assignment-5/overview)
-
 #### Background
 In this assignment, we developed a predictive model using data from edX online courses offered by Harvard and MIT. The objective was to predict whether a student would complete an online course based on their activity patterns. We were provided with a training dataset for model development and a test dataset for evaluation, mirroring real-world machine learning applications where models are trained on available data but ultimately assessed on unseen data.
 
