@@ -15,9 +15,4 @@ This project is a command-line based vaccine scheduling application designed to 
 - Microsoft Azure SQL Database
 - Required Python libraries: `hashlib`, `os`, `pyodbc`, `sqlalchemy`
 
-### Installation
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/vaccine-scheduling.git
-   cd vaccine-scheduling
